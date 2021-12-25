@@ -1,22 +1,5 @@
 ## Welcome to LanXuan's Blog
 
-### Markdown
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[圣诞快乐](https://forestlp.github.io/lanxuan/lxsdkl.html) 
+![Image](./img/sdkl.gif)
 
